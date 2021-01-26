@@ -1,0 +1,13 @@
+{
+  "itens": [
+    { "price": 1,  "amount": 1, "weight": 2,  "package": 12 },
+    { "price": 1,  "amount": 1, "weight": 10, "package": 4  },
+    { "price": 1,  "amount": 1, "weight": 18, "package": 12 }
+  ],
+
+  "emails": [
+    "fulano@test.com",
+    "beltrano@test.com",
+    "ciclano@test.com"
+  ]
+}
